@@ -4,7 +4,7 @@
     "editor.autoClosingBrackets": "never",
     "editor.autoClosingQuotes": "never",
     "editor.cursorStyle": "underline",
-    "editor.fontFamily": "'JetBrains Mono', Papyrus",
+    "editor.fontFamily": "'iA Writer Mono V', Papyrus",
     "editor.formatOnSave": true,
     "editor.matchBrackets": "never",
     "editor.minimap.enabled": false,
@@ -35,6 +35,8 @@
     "workbench.colorTheme": "Cold Horizon",
     "editor.formatOnPaste": true,
     "editor.fontSize": 15,
-    "files.autoSave": "onWindowChange",
-    "window.openFilesInNewWindow": "on"
+    "files.autoSave": "afterDelay",
+    "window.openFilesInNewWindow": "on",
+    "vale.core.useCLI": true,
+    "html.format.wrapLineLength": 0,
   }
